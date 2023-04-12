@@ -1,4 +1,4 @@
-# EX-05-Image-Transformation
+# Image-Transformation
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -104,35 +104,28 @@ plt.show
 ## Output:
 ### i)Image Translation
 
-![image](https://user-images.githubusercontent.com/94525886/231567351-38c4a8cc-2ead-4f04-97a2-a7b4985fd21c.png)
-
-
+![](ima2.png)
 
 ### ii) Image Scaling
 
-![image](https://user-images.githubusercontent.com/94525886/231567256-7749ee49-f7a3-4bf5-ae52-e06f6d187b80.png)
-
+![](ima3.png)
 
 ### iii)Image shearing
 
-![image](https://user-images.githubusercontent.com/94525886/231567422-5f4631ca-91ba-4e37-a435-703f8ea31b91.png)
-
+![](ima4.png)
 
 ### iv)Image Reflection
 
-![image](https://user-images.githubusercontent.com/94525886/231567481-e34df315-776d-4b48-af37-36477dbc4b0d.png)
-
+![](ima5.png)
 
 ### v)Image Rotation
 
-![image](https://user-images.githubusercontent.com/94525886/231567562-ee897988-0a5e-454a-93d3-43a3b8fc1eac.png)
-
+![](ima6.png)
 
 
 ### vi)Image Cropping
 
-![image](https://user-images.githubusercontent.com/94525886/231567677-d285a192-4ab9-4990-b29c-211718ee51df.png)
-
+![](ima7.png)
 
 
 ## Result: 
